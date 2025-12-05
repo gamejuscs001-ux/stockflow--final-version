@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow AI",
+  "description": "A local in/out stock recording system with AI-powered data parsing and visualization.",
+  "requestFramePermissions": []
+}
